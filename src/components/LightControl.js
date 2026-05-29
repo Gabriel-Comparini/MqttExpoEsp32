@@ -26,13 +26,11 @@ const styles = StyleSheet.create({
         padding: 30,
         borderRadius: 20,
         alignItems: 'center',
-        width: '100%',
-        marginBottom: 20
+        width: '100%'
     },
 
     label: {
         color: '#AAA',
-        marginTop: 10,
         fontSize: 14
     }
 });
